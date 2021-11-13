@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Đoán xem cái zì đâyyy",
-    introTitle: 'Các em bé K^#',
+    introTitle: 'Các em bé K63',
     introDesc: `Đã apply SEED chưaaaa`,
     btnIntro: 'ủa j z chòy 😳',
     title: 'SEED sắp đóng đơn rùiii',
